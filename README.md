@@ -13,10 +13,11 @@ We are recruiting for 3 roles:
 
 
 	
-- <b>Full stack developer</b> - must complete both <b>backend</b> and <b>frontend</b> tasks;
+- <b>Fullstack developer</b> - must complete both <b>backend</b> and <b>frontend</b> tasks;
 - <b>Backend developer</b> - must complete the <b>backend</b> task;
 - <b>Frontend developer</b> - must complete the <b>frontend</b> task.
 
+Even if you are not a <b>fullstack developer</b>, read the fullstack section since it applies to both frontend and backend.
 <br/>
 
 ## Summary
