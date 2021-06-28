@@ -3,7 +3,7 @@
 ## Introduction
 Hello there Potential developer,
 
-The App that you will be building will be a very simple ToDo application, the purpose of which is for you to showcase your coding skills using technologies you have experience of. Clean, good quality, well-structured code is the priority for this assessment which meets the criteria listed below.
+The App that you will be building will be a very simple ToDo application using <b>Laravel</b> for backend and <b>Vue.js</b> for frontend. The purpose is for you to showcase your coding skills using technologies you have experience with. Clean, good quality, well-structured code is the priority for this assessment which meets the criteria listed below.
 
 This whole test is of an open ended nature, so in case some things are not clearly defined, it will be up to you to make the decision and explain your choice about going that route on the interview. Of course, you can still feel free to contact us about any potential clarifications about the tasks listed.
 
